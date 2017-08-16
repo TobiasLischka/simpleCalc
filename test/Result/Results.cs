@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace test
+namespace SimpleCalc
 {
     public abstract class Results
     {
